@@ -1,4 +1,4 @@
-# StarGAN with CUT Integration
+# enhancedStarGAN
 
 This repository extends the original StarGAN by integrating **Contrastive Unpaired Translation (CUT)**, enhancing the semantic consistency and quality of domain-translated images.
 
@@ -72,9 +72,9 @@ Generated images are saved to `stargan/results/`.
 
 ## Key Enhancements
 
-- ✅ Integrated CUT's **PatchNCE loss** for better semantic consistency
-- ✅ Multi-domain translation capability
-- ✅ Modular and customizable
+- Integrated CUT's **PatchNCE loss** for better semantic consistency
+- Multi-domain translation capability
+- Modular and customizable
 
 ## References
 
